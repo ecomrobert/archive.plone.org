@@ -4,6 +4,9 @@ archive.plone.org
 
 `Bootstrap <https://getbootstrap.com/>`_ based landing page for `archive.plone.org <https://archive.plone.org>`_.
 
+.. images:: _static/archive-ploneorg-makeover.png
+   :alt: Picture of the new site
+
 Features
 ========
 
